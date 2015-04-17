@@ -1,5 +1,8 @@
 
+/* 
+unlike a hash map, a tree map guarantees that its elements will be sorted in ascending key order.
 
+*/
 package PrintVerticalOrderBinaryTree;
 import java.util.ArrayList;
 import java.util.Set;
