@@ -2,7 +2,7 @@ int subStringAnagram(String A, String B) {
     //corner cases
     
     //general cases
-    int A.length() = m, B.length() = n;
+    int m = A.length(), n = B.length();
     if(n == 0) return 0;
     Map<Character, Integer> mapA = new Hashmap<>();
     Map<Character, Integer> mapB = new Hashmap<>();
